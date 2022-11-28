@@ -10,7 +10,14 @@
       "NET",
       "NET5_0",
       "NETCOREAPP",
-      "NETCOREAPP3_1"
+      "NET5_0_OR_GREATER",
+      "NETCOREAPP1_0_OR_GREATER",
+      "NETCOREAPP1_1_OR_GREATER",
+      "NETCOREAPP2_0_OR_GREATER",
+      "NETCOREAPP2_1_OR_GREATER",
+      "NETCOREAPP2_2_OR_GREATER",
+      "NETCOREAPP3_0_OR_GREATER",
+      "NETCOREAPP3_1_OR_GREATER"
     ],
     "languageVersion": "9.0",
     "platform": "",
@@ -212,7 +219,6 @@
           "System.Linq.Parallel": "5.0.0.0",
           "System.Linq.Queryable": "5.0.0.0",
           "System.Memory": "5.0.0.0",
-          "System.Net.Connections": "5.0.0.0",
           "System.Net": "4.0.0.0",
           "System.Net.Http": "5.0.0.0",
           "System.Net.Http.Json": "5.0.0.0",
@@ -1431,12 +1437,6 @@
       "System.Memory/5.0.0.0": {
         "compile": {
           "System.Memory.dll": {}
-        },
-        "compileOnly": true
-      },
-      "System.Net.Connections/5.0.0.0": {
-        "compile": {
-          "System.Net.Connections.dll": {}
         },
         "compileOnly": true
       },
@@ -2956,11 +2956,6 @@
       "sha512": ""
     },
     "System.Memory/5.0.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Net.Connections/5.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
