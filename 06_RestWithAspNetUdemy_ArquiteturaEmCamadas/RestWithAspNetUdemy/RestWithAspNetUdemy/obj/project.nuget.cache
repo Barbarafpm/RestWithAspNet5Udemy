@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLW+eRWa45VcHXpBe4OburbE4z4DpIXHTxZFti5tuHWjp2qmonnkNdfRhMMQbVpQ2Jbuk7hndsiiG448IMPJ6Q==",
+  "dgSpecHash": "7wJaD5cM7oDnA4HXwzSZQLhqZ8+I2z2qVRS8d13Jje/zxP0fPCXszdBc0lBEcK3TisjfPnWtwRZY+IOX0QCIbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Babi\\Desktop\\AspNetUdemy\\RestWithAspNet5Udemy\\06_RestWithAspNetUdemy_ArquiteturaEmCamadas\\RestWithAspNetUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Babi\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512",
     "C:\\Users\\Babi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Babi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Babi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
