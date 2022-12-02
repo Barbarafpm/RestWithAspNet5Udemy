@@ -16,7 +16,7 @@ namespace RestWithASPNETUdemy.Repository.Implementations
         {
             _context = context;
         }
-        
+
         // Method responsible for returning all people,
         public List<Person> FindAll()
         {
